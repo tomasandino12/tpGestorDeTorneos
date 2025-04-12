@@ -23,22 +23,20 @@ El proyecto consiste en una aplicación web para la gestión de torneos deportiv
 ## Alcance Funcional 
 
 ### Alcance Mínimo
- El 
-
 Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Jugador<br>2. CRUD Cancha<br>3. CRUD Arbitro|
-|CRUD dependiente|1. CRUD Equipo {depende de} CRUD Partidos<br>2. CRUD Torneo {depende de} CRUD Equipo|
-|Listado<br>+<br>detalle| 1. Listado de equipos filtrados por sus puntos y partidos jugados  => detalle CRUD Habitacion<br> 2. Listado de oartidos ffiltados por fecha mostrando el rival el horario y la cancha => detalle muestra datos completos de la reserva y del cliente|
+|CRUD dependiente|1. CRUD Equipo {depende de} CRUD Jugador<br>2. CRUD Torneo {depende de} CRUD Equipo|
+|Listado<br>+<br>detalle| 1. Listado de equipos filtrados por sus puntos y partidos jugados, muestra posición, nombreEquipo, puntos, partidos jugados empatados ganados y perdidos y diferencia de gol  => detalle muestra datos del equipo como sus jugadores y historial de partidos<br> 2. Listado de partidos filtrados por fecha mostrando el rival el horario y la cancha => detalle muestra datos del equipo y jugadores|
 |CUU/Epic|1. Ver los partidos y sus estadisticas<br>2. Cargar equipos y jugadores|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CRUD |1. CRUD Jugador<br>2. CRUD Cancha<br>3. CRUD Arbitro<br>4. CRUD Equipo<br>5. CRUD Torneo<br>6. CRUD Partido<br>7. CRUD Administrador|
+|CUU/Epic|1.Ver los partidos y sus estadisticas<br>2. Crear torneos<br>3. Asignar partidos para equipo|
 
 
 ### Alcance Adicional Voluntario
@@ -47,7 +45,7 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Estadía del día filtrado por fecha muestra, cliente, habitaciones y estado <br>2. Reservas filtradas por cliente muestra datos del cliente y de cada reserve fechas, estado cantidad de habitaciones y huespedes|
-|CUU/Epic|1. Consumir servicios<br>2. Cancelación de reserva|
-|Otros|1. Envío de recordatorio de reserva por email|
+|Listados |1. Jugadores con mas asistencias del torneo <br>2. Jugadores con mas goles del torneo|
+|CUU/Epic|1. Cambiar de equipo (con aprobación)<br>2. Cargar estadisticas de jugador|
+|Otros|1. Gestion de arbitros, equipos y canchas|
 
