@@ -2,7 +2,9 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 52995 - Tomás, Andino
+* legajo - Burgos, Mateo
+* 52991 - Negri, Geronimo
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
