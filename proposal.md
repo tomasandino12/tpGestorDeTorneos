@@ -16,9 +16,8 @@
 El proyecto consiste en una aplicación web para la gestión de torneos deportivos amateur. Permite registrar jugadores y equipos, crear torneos con su respectivo fixture, cargar resultados de partidos y visualizar automáticamente las tablas de posiciones y estadísticas del torneo. Ideal para clubes, grupos de amigos o ligas barriales que deseen organizar sus competencias de forma simple y ordenada.
 
 ### Modelo
-![imagen del modelo]()
+![modelo de dominio ](https://github.com/user-attachments/assets/30b0e679-b2fe-4bd5-9c17-b9ae8fb7a381)
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional 
 
