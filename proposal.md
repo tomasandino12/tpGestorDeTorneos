@@ -3,8 +3,8 @@
 ## Grupo
 ### Integrantes
 * 52995 - Tomás, Andino
-* legajo - Burgos, Mateo
-* 52991 - Negri, Geronimo
+* 52978 - Burgos, Mateo
+* 52991 - Negri Cacurri, Geronimo
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
