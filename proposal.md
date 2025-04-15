@@ -7,8 +7,8 @@
 * 52991 - Negri Cacurri, Geronimo
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](https://github.com/tomasandino12/frontend-TPtorneos)
+* [backend app](https://github.com/tomasandino12/backend-TPtorneos)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
