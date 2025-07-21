@@ -9,7 +9,6 @@
 ### Repositorios
 * [frontend app](https://github.com/tomasandino12/frontend-TPtorneos)
 * [backend app](https://github.com/tomasandino12/backend-TPtorneos)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
 ### Descripción
