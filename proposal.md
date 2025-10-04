@@ -15,7 +15,8 @@
 El proyecto consiste en una aplicación web para la gestión de torneos deportivos amateur. Permite registrar jugadores y equipos, crear torneos con su respectivo fixture, cargar resultados de partidos y visualizar automáticamente las tablas de posiciones y estadísticas del torneo. Ideal para clubes, grupos de amigos o ligas barriales que deseen organizar sus competencias de forma simple y ordenada.
 
 ### Modelo
-![modelo de dominio ](https://github.com/user-attachments/assets/30b0e679-b2fe-4bd5-9c17-b9ae8fb7a381)
+![modelo de dominio ](<img width="1101" height="851" alt="GestorDeTorneos-Page-1 drawio" src="https://github.com/user-attachments/assets/1c6b336e-ccfc-410d-a4af-bf759e8386c7" />
+)
 
 
 ## Alcance Funcional 
