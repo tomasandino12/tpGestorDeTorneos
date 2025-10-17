@@ -27,7 +27,7 @@ Regularidad:
 |CRUD simple|1. CRUD Jugador<br>2. CRUD Cancha<br>3. CRUD Arbitro|
 |CRUD dependiente|1. CRUD Equipo {depende de} CRUD Jugador<br>2. CRUD Torneo {depende de} CRUD Equipo|
 |Listado<br>+<br>detalle| 1. Listado de equipos filtrados por sus puntos y partidos jugados, muestra posición, nombreEquipo, puntos, partidos jugados empatados ganados y perdidos y diferencia de gol  => detalle muestra datos del equipo como sus jugadores y historial de partidos<br> 2. Listado de partidos filtrados por fecha mostrando el rival el horario y la cancha => detalle muestra datos del equipo y jugadores|
-|CUU/Epic|1. Ver los partidos y sus estadisticas<br>2. Cargar equipos y jugadores|
+|CUU/Epic|1. Ver jugadores sin equipo y poder agregarlos.<br>2. Cargar equipos y jugadores|
 
 
 Adicionales para Aprobación
