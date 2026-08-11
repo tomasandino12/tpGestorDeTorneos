@@ -17,7 +17,7 @@ El proyecto consiste en una aplicación web para la gestión administrativa de t
 La aplicación genera automáticamente los fixtures de cada torneo, permite a los administradores cargar los resultados de los partidos disputados y muestra la tabla de posiciones actualizada en tiempo real. Está pensada para clubes, grupos de amigos o ligas barriales que deseen organizar sus competencias de forma simple y ordenada.
 
 ### Modelo
-![modelo de dominio ] ![alt text](ModeloDeDominioGestorTorneos.drawio.png)
+[alt text](ModeloDeDominioGestorTorneos.drawio.png)
 
 
 ## Alcance Funcional 
